@@ -1,0 +1,54 @@
+{
+  "header": {
+    "slogan": "weltkarte online ansehen",
+    "searchPlaceholder": "Suche..."
+  },
+  "nav": {
+    "home": "Startseite",
+    "regions": "Landseite",
+    "articles": "Alle Artikel"
+  },
+  "regions": {
+    "weltkarte": "Weltkarte",
+    "europa": "Europa",
+    "afrika": "Afrika",
+    "asien": "Asien",
+    "sudamerika": "Südamerika",
+    "nordamerika": "Nordamerika",
+    "antarktis": "Antarktis",
+    "ozeanien": "Ozeanien",
+    "deutschland": "Deutschland",
+    "italien": "Italien"
+  },
+  "home": {
+    "title": "Weltkarte Map - Interaktive Weltkarten und Länderinformationen",
+    "description": "Entdecken Sie interaktive Weltkarten und detaillierte Informationen zu Ländern und Regionen auf Weltkarte Map.",
+    "heading": "Weltkarte",
+    "regions": "Regionen",
+    "about": "Über Weltkarten",
+    "aboutContent": "Weltkarten bieten einen umfassenden Überblick über die geographische Verteilung von Ländern, Kontinenten und Ozeanen auf unserem Planeten. Sie sind wichtige Werkzeuge für das Verständnis globaler Zusammenhänge in Bereichen wie Geographie, Politik, Wirtschaft und Kultur.",
+    "popularArticles": "Beliebte Artikel",
+    "latestArticles": "Neueste Artikel",
+    "viewAllArticles": "Alle Artikel anzeigen"
+  },
+  "articles": {
+    "title": "Alle Artikel - Weltkarte Map",
+    "description": "Durchstöbern Sie unsere Sammlung von Artikeln über Länder, Regionen und geographische Themen.",
+    "heading": "Alle Artikel",
+    "regions": "Regionen"
+  },
+  "mapDetail": {
+    "relatedArticles": "Verwandte Artikel",
+    "relatedArticle1": "Die größten Städte Europas",
+    "relatedArticle2": "Europäische Flüsse und Seen",
+    "relatedArticle3": "Die EU-Mitgliedstaaten"
+  },
+  "footer": {
+    "about": "Über uns",
+    "aboutContent": "Weltkarte Map bietet interaktive Karten und Informationen über verschiedene Regionen der Welt.",
+    "quickLinks": "Schnelle Links",
+    "contact": "Kontakt",
+    "email": "Email",
+    "phone": "Telefon"
+  }
+}
